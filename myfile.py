@@ -1,0 +1,2 @@
+print("CICDproject")
+print("result")
